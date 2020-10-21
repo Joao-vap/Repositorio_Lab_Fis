@@ -9,7 +9,7 @@ Os primeiros são mais simples, não requerem muito. Espero que os outros ajudem
 A estrura básica é essa:
 
 >@misc{repositorio da pratica XX\
-author = {João Vítor},\
+author = {João Victor},\
 title = {Repositorio\\_Lab\\_Fis/FisYY-Prática\\_XX em master · Joao-vap/Repositorio\_Lab\_Fis},\
 howpublished = {\url{https://github.com/Joao-vap/Repositorio_Lab_Fis/tree/master/FisYY-Pr%C3%A1tica_XX}},\
 month = {},\
