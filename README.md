@@ -10,7 +10,7 @@ A estrura básica é essa:
 
 >@misc{repositorio da pratica XX\
 author = {João Vítor},\
-title = {Repositorio\_Lab\_Fis/FisYY-Prática\_XX at master · Joao-vap/Repositorio\_Lab\_Fis},\
+title = {Repositorio\\_Lab\\_Fis/FisYY-Prática\\_XX em master · Joao-vap/Repositorio\_Lab\_Fis},\
 howpublished = {\url{https://github.com/Joao-vap/Repositorio_Lab_Fis/tree/master/FisYY-Pr%C3%A1tica_XX}},\
 month = {},\
 year = {},\
